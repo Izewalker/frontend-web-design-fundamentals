@@ -6,8 +6,9 @@ This repository contains my daily practice labs, coding exercises, and projects 
 
 ## 📁 Repository Structure
 
-- **`01-hello-world/`** – Introduction to HTML tags, headings, and semantic paragraph elements.
-
+- **`01-hello-world/`** – Introduction to HTML headings and paragraph elements.
+- **`02-pet-adoption/`** – Practice with images (`<img>`), alt attributes, and hyperlinking (`<a>`).
+  
 ---
 
 ## 🛠️ Technologies Used
