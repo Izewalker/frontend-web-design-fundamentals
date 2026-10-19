@@ -11,6 +11,7 @@ This repository contains my daily practice labs and exercises as I work through 
 - **`03-recipe-page/`** – Practice with full HTML5 document structure (`<!DOCTYPE html>`, `<head>`, `<body>`), page titles, unordered lists (`<ul>`), and ordered lists (`<ol>`).
 - **`04-travel-agency/`** – Practice with meta description tags, semantic figure markup (`<figure>`, `<figcaption>`), and clickable image links (`target="_blank"`).
 - **`05-media-player/`** – Practice embedding multimedia elements using native HTML5 `<video>` and `<audio>` tags with `controls`, fallback text, and semantic sections.
+- **`06-video-compilation/`** – Practice embedding YouTube videos using responsive `<iframe>` elements, embedded video parameters (`?start=`), and advanced semantic layout (`<main>`, `<section>`).
 
 ---
 
